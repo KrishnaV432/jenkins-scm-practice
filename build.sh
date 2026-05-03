@@ -5,3 +5,4 @@ echo "Number two is $NUMBERTWO"
 sum=$(($NUMBERONE + $NUMBERTWO))
 echo "the sum of 2 nums is $sum"
 echo "build is completed"
+echo "This line was added during practice"
